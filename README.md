@@ -1,7 +1,7 @@
 # 🎉 IronGut! – Initial Release 🎉
 
 ## Overview
-Introducing **IronGut!** a toggle-able mod for *Drive Beyond Horizons* that lets you **enable or disable Hunger and Thirst** at any time. Perfect for players who want a more relaxed, exploration-focused experience.
+Introducing **IronGut!** a toggle-able mod for *Drive Beyond Horizons* that lets you **enable or disable Hunger and Thirst** at any time.
 
 ## ✅ Features - Toggle On/Off with F9!
 - Toggle **Hunger System**
